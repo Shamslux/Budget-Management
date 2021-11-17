@@ -1,3 +1,4 @@
+![MicrosoftPowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 # Budget-Management
 A student project that I did, following André Rosa's Power BI and DAX course on Udemy. The main goal of this short project was to practice DAX fundamentals, some business characteristics and common Power BI features (although I already had some knowledge about this tool). 
 
